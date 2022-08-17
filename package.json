@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/e0da/places/issues"
   },
-  "homepage": "https://github.com/e0da/places#readme"
+  "homepage": "https://github.com/e0da/places#readme",
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
 }

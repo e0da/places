@@ -102,4 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Mac stuff
 **/.DS_Store
