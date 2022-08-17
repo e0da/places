@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /assets</title>
+ </head>
+ <body>
+<h1>Index of /assets</h1>
+  <table>
+   <tr><th valign="top">&nbsp;</th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="/">Parent Directory</a>       </td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="animations/">animations/</a>            </td><td align="right">2020-09-07 14:51  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="atlas/">atlas/</a>                 </td><td align="right">2020-06-05 16:55  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="audio/">audio/</a>                 </td><td align="right">2022-06-29 22:50  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="bugs/">bugs/</a>                  </td><td align="right">2022-04-27 22:37  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="compressed/">compressed/</a>            </td><td align="right">2021-10-27 17:09  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="demoscene/">demoscene/</a>             </td><td align="right">2019-06-20 11:00  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="fonts/">fonts/</a>                 </td><td align="right">2018-09-13 13:34  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="games/">games/</a>                 </td><td align="right">2020-09-09 16:15  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="html/">html/</a>                  </td><td align="right">2017-04-04 14:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="input/">input/</a>                 </td><td align="right">2018-11-12 17:16  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="loader-tests/">loader-tests/</a>          </td><td align="right">2020-11-18 18:18  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="normal-maps/">normal-maps/</a>           </td><td align="right">2020-12-03 12:53  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="obj/">obj/</a>                   </td><td align="right">2020-11-09 16:46  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="particles/">particles/</a>             </td><td align="right">2018-05-10 11:47  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="paths/">paths/</a>                 </td><td align="right">2017-10-02 22:44  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="phaser3/">phaser3/</a>               </td><td align="right">2018-04-19 02:38  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="physics/">physics/</a>               </td><td align="right">2021-07-12 16:59  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="pics/">pics/</a>                  </td><td align="right">2022-08-15 14:41  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="pipelines/">pipelines/</a>             </td><td align="right">2022-01-31 20:49  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="rope/">rope/</a>                  </td><td align="right">2020-04-27 17:45  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="sets/">sets/</a>                  </td><td align="right">2017-11-28 13:07  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="shaders/">shaders/</a>               </td><td align="right">2019-05-13 15:59  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="skies/">skies/</a>                 </td><td align="right">2022-01-31 20:49  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="spine/">spine/</a>                 </td><td align="right">2022-04-27 22:37  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="sprites/">sprites/</a>               </td><td align="right">2021-07-12 16:59  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="svg/">svg/</a>                   </td><td align="right">2018-08-07 16:45  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="swatches/">swatches/</a>              </td><td align="right">2018-09-12 01:03  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="tests/">tests/</a>                 </td><td align="right">2020-11-11 15:45  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="text/">text/</a>                  </td><td align="right">2019-10-17 21:52  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="textures/">textures/</a>              </td><td align="right">2020-09-04 17:21  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="tilemaps/">tilemaps/</a>              </td><td align="right">2020-10-11 23:05  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="ui/">ui/</a>                    </td><td align="right">2019-01-28 11:48  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="video/">video/</a>                 </td><td align="right">2019-04-30 16:08  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+</body></html>

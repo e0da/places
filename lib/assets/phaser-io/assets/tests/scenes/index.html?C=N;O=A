@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /assets/tests/scenes</title>
+ </head>
+ <body>
+<h1>Index of /assets/tests/scenes</h1>
+  <table>
+   <tr><th valign="top">&nbsp;</th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="/assets/tests/">Parent Directory</a>       </td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="asteroid.png">asteroid.png</a>           </td><td align="right">2021-03-24 11:33  </td><td align="right">355K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="bg.jpg">bg.jpg</a>                 </td><td align="right">2021-03-24 11:33  </td><td align="right">329K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="blue.png">blue.png</a>               </td><td align="right">2021-03-24 11:33  </td><td align="right"> 27K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="button-down.png">button-down.png</a>        </td><td align="right">2021-03-24 11:32  </td><td align="right">2.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="button-out.png">button-out.png</a>         </td><td align="right">2021-03-24 11:33  </td><td align="right">1.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="button-over.png">button-over.png</a>        </td><td align="right">2021-03-24 11:33  </td><td align="right">2.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="digital.bmfc">digital.bmfc</a>           </td><td align="right">2021-03-24 11:32  </td><td align="right">741 </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="digital.png">digital.png</a>            </td><td align="right">2021-03-24 11:32  </td><td align="right"> 21K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="digital.xml">digital.xml</a>            </td><td align="right">2021-03-24 11:33  </td><td align="right"> 11K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="mine.png">mine.png</a>               </td><td align="right">2021-03-24 11:33  </td><td align="right"> 93K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="nav-down.png">nav-down.png</a>           </td><td align="right">2021-03-24 11:32  </td><td align="right">1.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="nav-left.png">nav-left.png</a>           </td><td align="right">2021-03-24 11:33  </td><td align="right">1.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="nav-out.png">nav-out.png</a>            </td><td align="right">2021-03-24 11:33  </td><td align="right">1.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="nav-right.png">nav-right.png</a>          </td><td align="right">2021-03-24 11:33  </td><td align="right">1.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="nav-up.png">nav-up.png</a>             </td><td align="right">2021-03-24 11:33  </td><td align="right">1.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="nebula.png">nebula.png</a>             </td><td align="right">2021-03-24 11:33  </td><td align="right">1.6M</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="panel.png">panel.png</a>              </td><td align="right">2021-03-24 11:33  </td><td align="right"> 14K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="planet.png">planet.png</a>             </td><td align="right">2021-03-24 11:33  </td><td align="right">211K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="scene-labels.png">scene-labels.png</a>       </td><td align="right">2021-03-24 11:33  </td><td align="right">3.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="ship.png">ship.png</a>               </td><td align="right">2021-03-24 11:33  </td><td align="right">7.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="space.json">space.json</a>             </td><td align="right">2021-03-24 11:33  </td><td align="right">2.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="space.png">space.png</a>              </td><td align="right">2021-03-24 11:33  </td><td align="right">2.8M</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="space.tps">space.tps</a>              </td><td align="right">2021-03-24 11:32  </td><td align="right"> 11K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="sun.png">sun.png</a>                </td><td align="right">2021-03-24 11:32  </td><td align="right">454K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="toggle-off.png">toggle-off.png</a>         </td><td align="right">2021-03-24 11:33  </td><td align="right">1.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="toggle-on.png">toggle-on.png</a>          </td><td align="right">2021-03-24 11:33  </td><td align="right">2.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="ui.json">ui.json</a>                </td><td align="right">2021-03-24 11:33  </td><td align="right">4.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="ui.png">ui.png</a>                 </td><td align="right">2021-03-24 11:32  </td><td align="right"> 31K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="ui.tps">ui.tps</a>                 </td><td align="right">2021-03-24 11:33  </td><td align="right">9.6K</td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+</body></html>
